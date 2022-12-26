@@ -52,7 +52,7 @@ tensorflow-gpu==1.15.0
 termcolor==1.1.0
 toolz==0.10.0
 urllib3==1.25.8
-wheel==0.34.2
+wheel==0.38.1
 wrapt==1.12.1
 Werkzeug==1.0.0
 
